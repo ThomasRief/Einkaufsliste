@@ -5,3 +5,6 @@ Wurst
 Käse
 Obst
 Schokoladeneis
+Vanilleeis
+Erdbeereis
+Pfefferminzeis
