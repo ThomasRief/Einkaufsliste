@@ -3,3 +3,6 @@ Dies ist die Liste für die Getränke:
 Mineralwasser
 Apfelsaft
 Orangensaft
+
+Rotwein
+Sekt
