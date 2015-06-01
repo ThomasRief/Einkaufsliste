@@ -1,3 +1,6 @@
 Hier die Liste für Sonstiges:
 
 Servietten
+Papier
+Stifte
+C-Interpreter
