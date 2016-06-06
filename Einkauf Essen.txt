@@ -7,4 +7,5 @@ Obst
 Schokoladeneis
 Vanilleeis
 Erdbeereis
-Pfefferminzeis
+Himbeereis
+Waffeln
